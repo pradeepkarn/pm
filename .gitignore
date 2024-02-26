@@ -3,7 +3,7 @@
 FlexStart
 info.txt
 /tour
-/media
+# /media
 data/json/media/images/pages/gallery.json
 *_temp
 error_log
@@ -14,7 +14,7 @@ error_log
 /media/images/pages
 /media/images/profiles
 
-/vendor
+# /vendor
 *.pdf
 *.csv
 /junk
