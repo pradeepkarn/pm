@@ -1,0 +1,9 @@
+{
+    "require": {
+        "phpmailer/phpmailer": "^6.8",
+        "vlucas/phpdotenv": "^5.5",
+        "egulias/email-validator": "^4.0",
+        "phpoffice/phpspreadsheet": "^1.29",
+        "symfony/event-dispatcher": "^6.4"
+    }
+}

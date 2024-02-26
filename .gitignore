@@ -1,0 +1,20 @@
+*.env
+*.zip
+FlexStart
+info.txt
+/tour
+# /media
+data/json/media/images/pages/gallery.json
+*_temp
+error_log
+/.htaccess
+/payref/*.xml
+/payref/sms/*.json
+/payref/*.json
+/media/images/pages
+/media/images/profiles
+
+# /vendor
+*.pdf
+*.csv
+/junk
